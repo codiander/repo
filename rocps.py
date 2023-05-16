@@ -1,4 +1,5 @@
 #rock, paper and scissors
+#work on it
 def rps():
     import random
     comp=["R","P","S"]
